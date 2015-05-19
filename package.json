@@ -1,0 +1,25 @@
+{
+  "name": "jsynth-pitch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amod": "^2.0.0",
+    "detect-pitch": "^0.1.2",
+    "jdelay": "^9.1.0",
+    "jsynth-mic": "^0.4.0",
+    "oscillators": "^1.0.0",
+    "pitch-shift": "0.0.0",
+    "typedarray-pool": "^1.1.0"
+  },
+  "devDependencies": {
+    "detect-pitch": "^0.1.2",
+    "jsynth": "^2.4.0",
+    "jsynth-mic": "^0.4.0"
+  }
+}
